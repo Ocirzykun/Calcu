@@ -1,2 +1,3 @@
-# Calcu
+HTML
+CSS
 Calculator
